@@ -42,7 +42,7 @@ import com.google.common.io.ByteStreams;
  */
 public class LiveAgentInstance
  {
-	private static final String ENDPOINT ="https://d.la2c1.salesforceliveagent.com";
+	private static final String ENDPOINT ="https://d.la2-c1cs-ia6.salesforceliveagent.com/chat/rest/";
 	private static final String APIVERSION = "34";
 	private static String affinityToken = null;
 	private static String affinityKey = null;
